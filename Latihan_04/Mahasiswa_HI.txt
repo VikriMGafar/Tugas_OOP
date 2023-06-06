@@ -1,0 +1,5 @@
+﻿116111001|Ferdian|Jakarta, 12/05/1998
+116111003|Adi|bogor, 06/09/1998
+116111004|Juwita|Bekasi, 5/05/1998
+116111006|Nadila Fadilah|Jakarta, 02/04/1998
+116111007|Yohanna|Jakarta, 01/03/1998

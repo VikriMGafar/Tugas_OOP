@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\bin\Debug\AlbumFoto.exe.config
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\bin\Debug\AlbumFoto.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\bin\Debug\AlbumFoto.pdb
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.FormUtama.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.Properties.Resources.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\AlbumFoto\obj\Debug\AlbumFoto.pdb

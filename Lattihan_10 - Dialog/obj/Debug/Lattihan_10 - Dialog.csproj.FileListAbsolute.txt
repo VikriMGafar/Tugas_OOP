@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\bin\Debug\Lattihan_10 - Dialog.exe.config
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\bin\Debug\Lattihan_10 - Dialog.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\bin\Debug\Lattihan_10 - Dialog.pdb
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10___Dialog.Form1.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10___Dialog.Properties.Resources.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Lattihan_10 - Dialog\obj\Debug\Lattihan_10 - Dialog.pdb
