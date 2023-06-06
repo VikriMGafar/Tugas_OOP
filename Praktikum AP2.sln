@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumFoto", "AlbumFoto\Albu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_10 - Dialog", "Lattihan_10 - Dialog\Latihan_10 - Dialog.csproj", "{33AB3303-1495-4B0B-AB59-54648C66BCB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_11 - keyboard trap menus", "WindowsFormsApp1\Latihan_11 - keyboard trap menus.csproj", "{824E0A4D-132D-45E4-80D9-33A855D3AA44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

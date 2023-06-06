@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E44922A2-9B8D-4EE3-BF3F-9D7435824132}</ProjectGuid>
+    <ProjectGuid>{824E0A4D-132D-45E4-80D9-33A855D3AA44}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Praktek_11___Keyboard_Trap</RootNamespace>
-    <AssemblyName>Praktek_11___Keyboard_Trap</AssemblyName>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\Vikri Muhammad Gafar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\Latihan_02\\Latihan_02.csproj",
+      "projectUniqueName": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\Latihan_02\\Latihan_02.csproj",
       "projectName": "Latihan_02",
-      "projectPath": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\Latihan_02\\Latihan_02.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\Latihan_02\\obj\\",
+      "projectPath": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\Latihan_02\\Latihan_02.csproj",
+      "packagesPath": "C:\\Users\\Vikri Muhammad Gafar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\Latihan_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vikri Muhammad Gafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
