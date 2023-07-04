@@ -13,3 +13,18 @@ C:\Users\Vikri Muhammad Gafar\source\repos\Praktikum AP2\VikriMG - Tugas01 - Hel
 C:\Users\Vikri Muhammad Gafar\source\repos\Praktikum AP2\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.pdb
 C:\Users\Vikri Muhammad Gafar\source\repos\Praktikum AP2\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.genruntimeconfig.cache
 C:\Users\Vikri Muhammad Gafar\source\repos\Praktikum AP2\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\ref\VikriMG - Tugas01 - Hello World.dll
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\bin\Debug\net6.0\VikriMG - Tugas01 - Hello World.exe
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\bin\Debug\net6.0\VikriMG - Tugas01 - Hello World.deps.json
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\bin\Debug\net6.0\VikriMG - Tugas01 - Hello World.runtimeconfig.json
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\bin\Debug\net6.0\VikriMG - Tugas01 - Hello World.dll
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\bin\Debug\net6.0\VikriMG - Tugas01 - Hello World.pdb
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.csproj.AssemblyReference.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.AssemblyInfoInputs.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.AssemblyInfo.cs
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.dll
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\refint\VikriMG - Tugas01 - Hello World.dll
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.pdb
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\VikriMG - Tugas01 - Hello World.genruntimeconfig.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\VikriMG - Tugas01 - Hello World\obj\Debug\net6.0\ref\VikriMG - Tugas01 - Hello World.dll

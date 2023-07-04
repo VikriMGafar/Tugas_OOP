@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class FormUtama : Form
     {
-        public Form1()
+        public FormUtama()
         {
             InitializeComponent();
+        }
+
+        private void subMenu2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tssPesan.Text = "anda masuk sub menu 2";
+        }
+
+        private void menu2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tssPesan.Text = "anda masuk Menu 2";
         }
     }
 }

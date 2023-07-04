@@ -1,0 +1,12 @@
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\bin\Debug\Latihan 11 - Keyboard trap Menus.exe.config
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\bin\Debug\Latihan 11 - Keyboard trap Menus.exe
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\bin\Debug\Latihan 11 - Keyboard trap Menus.pdb
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11 - Keyboard trap Menus.csproj.AssemblyReference.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11 - Keyboard trap Menus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11___Keyboard_trap_Menus.Properties.Resources.resources
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11 - Keyboard trap Menus.csproj.GenerateResource.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11 - Keyboard trap Menus.csproj.CoreCompileInputs.cache
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan 11 - Keyboard trap Menus.exe
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan 11 - Keyboard trap Menus.pdb
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11___Keyboard_trap_Menus.FormTrap.resources
+C:\Users\Vikri Muhammad Gafar\Documents\Kuliah\OOP\Tugas_OOP\Latihan 11 - Keyboard trap Menus\obj\Debug\Latihan_11___Keyboard_trap_Menus.FormUtama.resources

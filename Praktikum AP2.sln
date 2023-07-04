@@ -19,7 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumFoto", "AlbumFoto\Albu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_10 - Dialog", "Lattihan_10 - Dialog\Latihan_10 - Dialog.csproj", "{33AB3303-1495-4B0B-AB59-54648C66BCB4}"
 EndProject
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_14-MSOffice", "Latihan14_MSOffice\Latihan_14-MSOffice.csproj", "{EB26A95E-A807-43E5-8A0B-FEA9D2947C2A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_12-MoviePlayer", "Latihan_12-Recursion\Latihan_12-MoviePlayer.csproj", "{E90F125C-D59C-4F38-99E2-B4BDEB8ECCDF}"
@@ -27,9 +26,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_15-Database", "Latihan_15-Database\Latihan_15-Database.csproj", "{3CC92C3C-843A-49EA-BF34-A88B214B52B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_11_SplitContainer", "Latihan11_SplitContainer\Latihan_11_SplitContainer.csproj", "{7E109F78-B7A1-49AA-9F58-7C39A1D181BD}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_11 - keyboard trap menus", "WindowsFormsApp1\Latihan_11 - keyboard trap menus.csproj", "{824E0A4D-132D-45E4-80D9-33A855D3AA44}"
->>>>>>> 97bb5f5dd2e3a49367a417bd08f1703e1ea97dab
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_13 - Automation", "Latihan_13 - Automation\Latihan_13 - Automation.csproj", "{54C194D2-B018-406D-92E6-F98335B5E8D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_11 - Keyboard trap Menus", "Latihan 11 - Keyboard trap Menus\Latihan_11 - Keyboard trap Menus.csproj", "{E5A5F148-1A9A-4FAE-9D1A-1177EA81937C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,7 +69,6 @@ Global
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33AB3303-1495-4B0B-AB59-54648C66BCB4}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{EB26A95E-A807-43E5-8A0B-FEA9D2947C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EB26A95E-A807-43E5-8A0B-FEA9D2947C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB26A95E-A807-43E5-8A0B-FEA9D2947C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -86,12 +85,14 @@ Global
 		{7E109F78-B7A1-49AA-9F58-7C39A1D181BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E109F78-B7A1-49AA-9F58-7C39A1D181BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E109F78-B7A1-49AA-9F58-7C39A1D181BD}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{824E0A4D-132D-45E4-80D9-33A855D3AA44}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 97bb5f5dd2e3a49367a417bd08f1703e1ea97dab
+		{54C194D2-B018-406D-92E6-F98335B5E8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C194D2-B018-406D-92E6-F98335B5E8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C194D2-B018-406D-92E6-F98335B5E8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C194D2-B018-406D-92E6-F98335B5E8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A5F148-1A9A-4FAE-9D1A-1177EA81937C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A5F148-1A9A-4FAE-9D1A-1177EA81937C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A5F148-1A9A-4FAE-9D1A-1177EA81937C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A5F148-1A9A-4FAE-9D1A-1177EA81937C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
