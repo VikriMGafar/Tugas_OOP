@@ -1,0 +1,46 @@
+_*PROGRESS PROJECT PT.MATTEL*_
+
+Instalasi
+- *Progress*
+ 1. Terpasang line E1 - E6 (tidak sesuai rencana karena ada lembur di line C7-8, & Line D)
+ 2. Semua Warna tombol sudah diperbaiki
+ 3. pengecekan Wiring tower lamp yg terpasang di line B1
+
+- *masalah*
+ 1. Wiring lampu tower lamp di manual book tidak sesuai dengan yang kita design 
+ 2. Skun sambung habis
+
+ - *Next step*
+ 1. Percobaan 1 Wiring Tower lamp (Di Line E1) 
+ 2. Fokus pemasangan Wiring
+
+Perakitan
+- *Progress*
+ 1. panel ready sudah di wiring 6 pcs
+ 2. PCB sudah ready 3 pcs (3 lagi belum pasang resistor) 
+
+- *Problem*
+ 1. Skun Y habis
+
+- *Next Step*
+ 1. lanjut perakitan panel
+ 2. lanjut perakitan pcb
+
+_*PROGRESS PROJECT PT.ORI*_
+
+- *Progress*
+ 1. Pengambilan Data
+ 2. percobaan pemasangan proximity di encoder
+ 3. nilai encoder dengan titik 0 sudah tidak terlalu jauh (grounding)
+ 4. pengukuran bracket proximity (proses design)
+
+- *Problem*
+ 1. parameter pengambilan data sedikit miss
+ 2. sinyal masih sedikit noisy (grounding nya kurang bagus) 
+ 3. jarak axis masih terpaku di pulsa 1322
+
+- *Next Step*
+ 1. Lanjut program yang sudah di diskusikan dengan pa Rifky
+    > Pengambilan data percobaan di kecepatan mendekati aktual
+    > program kalibrasi untuk jarak 1 meter
+ 2. Design bracket untuk Proximity

@@ -1,0 +1,47 @@
+_*PROGRESS PROJECT PT.MATTEL*_
+
+Instalasi
+- *Progress*
+ 1. Terpasang line E9 - E14
+ (tidak sesuai rencana karena ada lembur di line C7-8, & Line D)
+ 2. Wiring Panel B6 - B11 sudah berfungsi
+
+- *masalah*
+ 1. Beberapa lampu tower lama masih terpasang
+    (line B11, b10, B7)
+ 2. pengerjaan 1 Wiring panel yang terbilang lama
+ 3. membutuhkan beberapa tools tambahan agar pekerjaan lebih cepat
+
+- *Next step*
+ 1. Lanjut Wiring
+ 2. lanjut pemasangan panel
+
+Perakitan
+- *Progress*
+ 1. panel ready sudah di wiring 8 pcs
+ 2. pcb ready 2 pcs
+
+- *Problem*
+ 1. Spacer Habis
+ 2. baut m3 habis (untuk psu ke base plate)
+ 3. untuk 6 pcs pcb masih 90%, sisa resistor untuk 
+
+- *Next Step*
+ 1. lanjut perakitan panel
+ 2. lanjut perakitan pcb
+
+_*PROGRESS PROJECT PT.ORI*_
+
+- *Progress*
+ 1. Cek posisi jarak terhadap pulse encoder
+ 2. Cek kepresisisan Encoder
+ 3. Perhitungan perbandingan spindle terhadap axis
+
+- *Problem*
+ 1. Nilai encoder terkadang berkurang/bertambah saat Axis bergerak 
+    > Kemungkinan karena Noise
+
+- *Next Step*
+ 1. Trial Winding
+ 2. analisa parameter Mesin lainnya
+ 3. Analisa Noise Encoder

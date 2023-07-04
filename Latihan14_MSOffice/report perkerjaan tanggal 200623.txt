@@ -1,0 +1,78 @@
+report perkerjaan tanggal 20/06/23
+
+PT. MATTEL INDOENSIA
+
+Instalasi :
+- Progress
+ 1. Sudah terpasang 6 PCS dengan pcb dengan detail
+  > Line C6, A1, A2, A3, A4, A5
+ 2. Total box yang terpasang 24 box dengan detail
+  > 6 Box terpasang PCB, Wiring button
+  > 12 box hanya box nya saja
+  > 6 box dengan wiring button tapi tanpa wiring dari PSU ke PCB
+
+- Problem
+ 1. Tiang Line JIT C7 Masih menggantung atau tidak tertanam ke lantai
+ 2. line JIT C8 - 12 memiliki ukuran tiang yang berbeda dari tiang lainnya (1 inch)
+ 3. tombol Line A1-5 masih bercampur
+
+- Next Step
+ 1. Instalasi Wiring tower lamp
+ 2. Lanjut Instalasi panel
+
+Perakitan panel :
+
+- Progress
+ 1. Box sudah di lubangi sebanyak 11 Pcs
+ 2. Cover Box yang sudah dipasangi button sebanyak 8 Pcs dengan detail
+  > 6 Pcs hanya terpasang tombol dengan warna sudah benar
+  > 2 Pcs sudah di Wiring dengan warna yang benar
+  > 4 Pcs Sudah di wiring dengan wanra acak (bisa ditukar dengan yang benar)
+ 3. Baseplate sudah dirakit 6 Pcs dengan detail
+  > 2 Pcs OK
+  > 2 Pcs NG
+  > 2 Pcs blm di check
+ 4. PCB belum ada yang ready 100% untuk 12 Pcs dengan detail
+  > 6 belum terpasang Terminal Block
+  > 6 belum terpasang Terminal block dan Stepdown
+ 
+- Problem
+  > beberapa part NG
+
+- Next Step
+  > perakitan untuk 12 set  IoT Box
+
+
+PT. ORI POLYTECH COMPOSITE
+
+Mechanical
+- Progress
+ 1. Sudah terpasang encoder untuk di Axis
+ 2. nilai pembacaan encoder sudah terbaca dengan jarak 1 meter di 1322 pulse
+
+- Problem
+ 1. ada kemungkinan selip (detail di bagian program)
+
+- Next Step
+ 1. Analisa Axis
+
+
+Program
+- Progress
+ 1. Encoder axis sudah terbaca di Program
+ 2. Sudah di tes dengan jarak axis 1 meter
+
+- Problem
+ > Axis
+  1. Jarak gerak Axis berbeda di setiap RPM.
+  (misal di 50 rpm jarak hanya 90 cm, di 300 rpm di 120 cm)
+  detail data di Grup Siemens challenge.
+ 
+ > Spindle
+  1. Nilai value encoder belum bisa direset di setiap 1 RPM
+   (mengakibatkan nilai jarak akan terus bertambah hingga batas tipe data)
+
+- Next step
+ 1. pengambilan data Axis lebih banyak
+ 2. percobaan reset nilai encoder dengan Proximity yang tersedia
+ 3. Percobaan program yang sudah di diskusikan ilham dengan tim IoT

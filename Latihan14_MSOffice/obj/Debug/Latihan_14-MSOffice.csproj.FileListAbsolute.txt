@@ -1,0 +1,12 @@
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\bin\Debug\Latihan14_MSOffice.exe.config
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\bin\Debug\Latihan14_MSOffice.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\bin\Debug\Latihan14_MSOffice.pdb
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan_14-MSOffice.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan_14-MSOffice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan_14-MSOffice.csproj.ResolveComReference.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan14_MSOffice.Form1.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan14_MSOffice.Properties.Resources.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan_14-MSOffice.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan_14-MSOffice.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan14_MSOffice.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan14_MSOffice\obj\Debug\Latihan14_MSOffice.pdb

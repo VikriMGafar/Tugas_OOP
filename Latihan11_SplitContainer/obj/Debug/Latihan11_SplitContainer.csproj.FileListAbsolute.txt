@@ -1,0 +1,12 @@
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\bin\Debug\Latihan11_SplitContainer.exe.config
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\bin\Debug\Latihan11_SplitContainer.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\bin\Debug\Latihan11_SplitContainer.pdb
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.FormFoto.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.FormUtama.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.Properties.Resources.resources
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.exe
+C:\Users\ACER\Documents\kuliah\05. OOP\Tugas_OOP\Latihan11_SplitContainer\obj\Debug\Latihan11_SplitContainer.pdb

@@ -1,0 +1,2 @@
+Nomor surat	Nama Sekolah	Alamat	Nama:NIP; NIP; Mapel
+2020/XI/001	SDN Nata endah 1	NataEndah	Yayan; 12345; Matematika|Yayan; 67890; Bahasa Inggris| Yeni; 112233; Bahasa Indonesia
