@@ -27,5 +27,10 @@ namespace Latihan_11___Keyboard_trap_Menus
         {
             WindowState = FormWindowState.Minimized;
         }
+
+        private void FormTrap_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }
