@@ -27,7 +27,8 @@ namespace Lattihan_10___Dialog
 			if (dr == DialogResult.OK)
 			{
 				//MessageBox.Show(dr.ToString());
-				MessageBox.Show(FolderDialog.SelectedPath);
+				//MessageBox.Show(FolderDialog.SelectedPath);
+				tbxFolder.Text = FolderDialog.SelectedPath + "\\";
 
 			}
 			else
@@ -36,5 +37,21 @@ namespace Lattihan_10___Dialog
 					MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
 			}
 		}
-	}
+
+        private void btnOpenFile_Click(object sender, EventArgs e)
+        {
+			OpenFileDialog ofd = new OpenFileDialog();
+			ofd.InitialDirectory = tbxFolder.Text;
+			DialogResult dr = ofd.ShowDialog();
+			if (dr == DialogResult.OK)
+			{
+				tbxNamaFile.Text = ofd.FileName;
+			}
+        }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+			DialogResult dr = PrintDialog1.ShowDialog(); ;
+        }
+    }
 }

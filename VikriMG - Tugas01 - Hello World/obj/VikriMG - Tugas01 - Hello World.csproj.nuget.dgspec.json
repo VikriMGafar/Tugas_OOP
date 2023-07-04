@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj": {}
+    "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj": {
+    "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj",
+        "projectUniqueName": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj",
         "projectName": "VikriMG - Tugas01 - Hello World",
-        "projectPath": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Documents\\kuliah\\05. OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\obj\\",
+        "projectPath": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\VikriMG - Tugas01 - Hello World.csproj",
+        "packagesPath": "C:\\Users\\Vikri Muhammad Gafar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vikri Muhammad Gafar\\Documents\\Kuliah\\OOP\\Tugas_OOP\\VikriMG - Tugas01 - Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vikri Muhammad Gafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
